@@ -10,5 +10,5 @@ Fahrauftrag abzugeben und damit einen aktuellen Fahrauftrag abzulösen.
 Benötigte Bibliotheken:
 	-> Tc2_MC2
 	
-Benötigte Lizensen:
+Benötigte Lizenzen:
 	-> TF5000
